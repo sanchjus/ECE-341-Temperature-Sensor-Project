@@ -1,6 +1,8 @@
 # ECE-341-Temperature-Sensor-Project
 Final Project Temp Sens for ECE 341
 
+10 Mar 2026 Winter Term OSU
+
 
 Authors:
 
