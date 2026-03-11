@@ -3,7 +3,9 @@ Final Project Temp Sens for ECE 341
 
 
 Authors:
+
 Team number: 22
+
 Diego Harrison 932250014 
 
 Jamie Petersen 934495103 
